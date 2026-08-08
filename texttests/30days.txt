@@ -1,0 +1,373 @@
+OMGHAI!
+-------- day 0 --------
+name, sellIn, quality
+Safety Vest, 10, 20
+Glue, 2, 0
+Superglue, 5, 7
+Sledge Hammer, 0, 80
+Sledge Hammer, -1, 80
+Parking Pass, 15, 20
+Parking Pass, 10, 49
+Parking Pass, 5, 49
+Bottle of water, 3, 6
+
+-------- day 1 --------
+name, sellIn, quality
+Safety Vest, 9, 19
+Glue, 1, 1
+Superglue, 4, 6
+Sledge Hammer, 0, 80
+Sledge Hammer, -1, 80
+Parking Pass, 14, 21
+Parking Pass, 9, 50
+Parking Pass, 4, 50
+Bottle of water, 2, 5
+
+-------- day 2 --------
+name, sellIn, quality
+Safety Vest, 8, 18
+Glue, 0, 2
+Superglue, 3, 5
+Sledge Hammer, 0, 80
+Sledge Hammer, -1, 80
+Parking Pass, 13, 22
+Parking Pass, 8, 50
+Parking Pass, 3, 50
+Bottle of water, 1, 4
+
+-------- day 3 --------
+name, sellIn, quality
+Safety Vest, 7, 17
+Glue, -1, 4
+Superglue, 2, 4
+Sledge Hammer, 0, 80
+Sledge Hammer, -1, 80
+Parking Pass, 12, 23
+Parking Pass, 7, 50
+Parking Pass, 2, 50
+Bottle of water, 0, 3
+
+-------- day 4 --------
+name, sellIn, quality
+Safety Vest, 6, 16
+Glue, -2, 6
+Superglue, 1, 3
+Sledge Hammer, 0, 80
+Sledge Hammer, -1, 80
+Parking Pass, 11, 24
+Parking Pass, 6, 50
+Parking Pass, 1, 50
+Bottle of water, -1, 1
+
+-------- day 5 --------
+name, sellIn, quality
+Safety Vest, 5, 15
+Glue, -3, 8
+Superglue, 0, 2
+Sledge Hammer, 0, 80
+Sledge Hammer, -1, 80
+Parking Pass, 10, 25
+Parking Pass, 5, 50
+Parking Pass, 0, 50
+Bottle of water, -2, 0
+
+-------- day 6 --------
+name, sellIn, quality
+Safety Vest, 4, 14
+Glue, -4, 10
+Superglue, -1, 0
+Sledge Hammer, 0, 80
+Sledge Hammer, -1, 80
+Parking Pass, 9, 27
+Parking Pass, 4, 50
+Parking Pass, -1, 0
+Bottle of water, -3, 0
+
+-------- day 7 --------
+name, sellIn, quality
+Safety Vest, 3, 13
+Glue, -5, 12
+Superglue, -2, 0
+Sledge Hammer, 0, 80
+Sledge Hammer, -1, 80
+Parking Pass, 8, 29
+Parking Pass, 3, 50
+Parking Pass, -2, 0
+Bottle of water, -4, 0
+
+-------- day 8 --------
+name, sellIn, quality
+Safety Vest, 2, 12
+Glue, -6, 14
+Superglue, -3, 0
+Sledge Hammer, 0, 80
+Sledge Hammer, -1, 80
+Parking Pass, 7, 31
+Parking Pass, 2, 50
+Parking Pass, -3, 0
+Bottle of water, -5, 0
+
+-------- day 9 --------
+name, sellIn, quality
+Safety Vest, 1, 11
+Glue, -7, 16
+Superglue, -4, 0
+Sledge Hammer, 0, 80
+Sledge Hammer, -1, 80
+Parking Pass, 6, 33
+Parking Pass, 1, 50
+Parking Pass, -4, 0
+Bottle of water, -6, 0
+
+-------- day 10 --------
+name, sellIn, quality
+Safety Vest, 0, 10
+Glue, -8, 18
+Superglue, -5, 0
+Sledge Hammer, 0, 80
+Sledge Hammer, -1, 80
+Parking Pass, 5, 35
+Parking Pass, 0, 50
+Parking Pass, -5, 0
+Bottle of water, -7, 0
+
+-------- day 11 --------
+name, sellIn, quality
+Safety Vest, -1, 8
+Glue, -9, 20
+Superglue, -6, 0
+Sledge Hammer, 0, 80
+Sledge Hammer, -1, 80
+Parking Pass, 4, 38
+Parking Pass, -1, 0
+Parking Pass, -6, 0
+Bottle of water, -8, 0
+
+-------- day 12 --------
+name, sellIn, quality
+Safety Vest, -2, 6
+Glue, -10, 22
+Superglue, -7, 0
+Sledge Hammer, 0, 80
+Sledge Hammer, -1, 80
+Parking Pass, 3, 41
+Parking Pass, -2, 0
+Parking Pass, -7, 0
+Bottle of water, -9, 0
+
+-------- day 13 --------
+name, sellIn, quality
+Safety Vest, -3, 4
+Glue, -11, 24
+Superglue, -8, 0
+Sledge Hammer, 0, 80
+Sledge Hammer, -1, 80
+Parking Pass, 2, 44
+Parking Pass, -3, 0
+Parking Pass, -8, 0
+Bottle of water, -10, 0
+
+-------- day 14 --------
+name, sellIn, quality
+Safety Vest, -4, 2
+Glue, -12, 26
+Superglue, -9, 0
+Sledge Hammer, 0, 80
+Sledge Hammer, -1, 80
+Parking Pass, 1, 47
+Parking Pass, -4, 0
+Parking Pass, -9, 0
+Bottle of water, -11, 0
+
+-------- day 15 --------
+name, sellIn, quality
+Safety Vest, -5, 0
+Glue, -13, 28
+Superglue, -10, 0
+Sledge Hammer, 0, 80
+Sledge Hammer, -1, 80
+Parking Pass, 0, 50
+Parking Pass, -5, 0
+Parking Pass, -10, 0
+Bottle of water, -12, 0
+
+-------- day 16 --------
+name, sellIn, quality
+Safety Vest, -6, 0
+Glue, -14, 30
+Superglue, -11, 0
+Sledge Hammer, 0, 80
+Sledge Hammer, -1, 80
+Parking Pass, -1, 0
+Parking Pass, -6, 0
+Parking Pass, -11, 0
+Bottle of water, -13, 0
+
+-------- day 17 --------
+name, sellIn, quality
+Safety Vest, -7, 0
+Glue, -15, 32
+Superglue, -12, 0
+Sledge Hammer, 0, 80
+Sledge Hammer, -1, 80
+Parking Pass, -2, 0
+Parking Pass, -7, 0
+Parking Pass, -12, 0
+Bottle of water, -14, 0
+
+-------- day 18 --------
+name, sellIn, quality
+Safety Vest, -8, 0
+Glue, -16, 34
+Superglue, -13, 0
+Sledge Hammer, 0, 80
+Sledge Hammer, -1, 80
+Parking Pass, -3, 0
+Parking Pass, -8, 0
+Parking Pass, -13, 0
+Bottle of water, -15, 0
+
+-------- day 19 --------
+name, sellIn, quality
+Safety Vest, -9, 0
+Glue, -17, 36
+Superglue, -14, 0
+Sledge Hammer, 0, 80
+Sledge Hammer, -1, 80
+Parking Pass, -4, 0
+Parking Pass, -9, 0
+Parking Pass, -14, 0
+Bottle of water, -16, 0
+
+-------- day 20 --------
+name, sellIn, quality
+Safety Vest, -10, 0
+Glue, -18, 38
+Superglue, -15, 0
+Sledge Hammer, 0, 80
+Sledge Hammer, -1, 80
+Parking Pass, -5, 0
+Parking Pass, -10, 0
+Parking Pass, -15, 0
+Bottle of water, -17, 0
+
+-------- day 21 --------
+name, sellIn, quality
+Safety Vest, -11, 0
+Glue, -19, 40
+Superglue, -16, 0
+Sledge Hammer, 0, 80
+Sledge Hammer, -1, 80
+Parking Pass, -6, 0
+Parking Pass, -11, 0
+Parking Pass, -16, 0
+Bottle of water, -18, 0
+
+-------- day 22 --------
+name, sellIn, quality
+Safety Vest, -12, 0
+Glue, -20, 42
+Superglue, -17, 0
+Sledge Hammer, 0, 80
+Sledge Hammer, -1, 80
+Parking Pass, -7, 0
+Parking Pass, -12, 0
+Parking Pass, -17, 0
+Bottle of water, -19, 0
+
+-------- day 23 --------
+name, sellIn, quality
+Safety Vest, -13, 0
+Glue, -21, 44
+Superglue, -18, 0
+Sledge Hammer, 0, 80
+Sledge Hammer, -1, 80
+Parking Pass, -8, 0
+Parking Pass, -13, 0
+Parking Pass, -18, 0
+Bottle of water, -20, 0
+
+-------- day 24 --------
+name, sellIn, quality
+Safety Vest, -14, 0
+Glue, -22, 46
+Superglue, -19, 0
+Sledge Hammer, 0, 80
+Sledge Hammer, -1, 80
+Parking Pass, -9, 0
+Parking Pass, -14, 0
+Parking Pass, -19, 0
+Bottle of water, -21, 0
+
+-------- day 25 --------
+name, sellIn, quality
+Safety Vest, -15, 0
+Glue, -23, 48
+Superglue, -20, 0
+Sledge Hammer, 0, 80
+Sledge Hammer, -1, 80
+Parking Pass, -10, 0
+Parking Pass, -15, 0
+Parking Pass, -20, 0
+Bottle of water, -22, 0
+
+-------- day 26 --------
+name, sellIn, quality
+Safety Vest, -16, 0
+Glue, -24, 50
+Superglue, -21, 0
+Sledge Hammer, 0, 80
+Sledge Hammer, -1, 80
+Parking Pass, -11, 0
+Parking Pass, -16, 0
+Parking Pass, -21, 0
+Bottle of water, -23, 0
+
+-------- day 27 --------
+name, sellIn, quality
+Safety Vest, -17, 0
+Glue, -25, 50
+Superglue, -22, 0
+Sledge Hammer, 0, 80
+Sledge Hammer, -1, 80
+Parking Pass, -12, 0
+Parking Pass, -17, 0
+Parking Pass, -22, 0
+Bottle of water, -24, 0
+
+-------- day 28 --------
+name, sellIn, quality
+Safety Vest, -18, 0
+Glue, -26, 50
+Superglue, -23, 0
+Sledge Hammer, 0, 80
+Sledge Hammer, -1, 80
+Parking Pass, -13, 0
+Parking Pass, -18, 0
+Parking Pass, -23, 0
+Bottle of water, -25, 0
+
+-------- day 29 --------
+name, sellIn, quality
+Safety Vest, -19, 0
+Glue, -27, 50
+Superglue, -24, 0
+Sledge Hammer, 0, 80
+Sledge Hammer, -1, 80
+Parking Pass, -14, 0
+Parking Pass, -19, 0
+Parking Pass, -24, 0
+Bottle of water, -26, 0
+
+-------- day 30 --------
+name, sellIn, quality
+Safety Vest, -20, 0
+Glue, -28, 50
+Superglue, -25, 0
+Sledge Hammer, 0, 80
+Sledge Hammer, -1, 80
+Parking Pass, -15, 0
+Parking Pass, -20, 0
+Parking Pass, -25, 0
+Bottle of water, -27, 0
+

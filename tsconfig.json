@@ -1,0 +1,27 @@
+{
+  "compilerOptions": {
+    "types": [
+      "node",
+      "vitest/importMeta"
+    ],
+    "target": "esnext",
+    "module": "esnext",
+    "moduleResolution": "bundler",
+    "rewriteRelativeImportExtensions": true,
+    "allowImportingTsExtensions": true,
+    "strict": true,
+    "declaration": true,
+    "noImplicitAny": false,
+    "declarationMap": true,
+    "sourceMap": true,
+    "verbatimModuleSyntax": true,
+  },
+  "include": [
+    "src",
+    "test",
+    "test/golden-master-text-test.ts"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}

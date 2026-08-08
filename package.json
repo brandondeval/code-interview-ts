@@ -1,0 +1,21 @@
+{
+  "name": "code-interview-ts",
+  "type": "module",
+  "private": true,
+  "license": "MIT",
+  "main": "index.js",
+  "version": "1.0.0",
+  "description": "Hardware Store code refactor in TypeScript",
+  "scripts": {
+    "test": "vitest"
+  },
+  "devDependencies": {
+    "@types/node": "^26.2.0",
+    "typescript": "~5.9.3",
+    "vite": "latest",
+    "vitest": "latest"
+  },
+  "dependencies": {
+    "ts-node": "^10.9.2"
+  }
+}
