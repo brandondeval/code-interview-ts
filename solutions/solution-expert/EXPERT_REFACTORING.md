@@ -52,4 +52,8 @@ The order of operations is intentional and matches the original implementation. 
 
 Adding a category is now localized: add an updater class and one case to `updaterFor`. The old function's scattered conditionals and duplicated bounds do not need to change.
 
-The naming above follows Fowler's second-edition catalog, where **Extract Function**, **Replace Nested Conditional with Guard Clauses**, and **Replace Conditional with Polymorphism** are catalogued refactorings; **Replace Magic Literal** is the second-edition name for the earlier magic-number refactoring.
+The naming above follows Fowler's second-edition catalog, where:
+**Extract Function**, 
+**Replace Nested Conditional with Guard Clauses**, and 
+**Replace Conditional with Polymorphism** are catalogued refactorings; 
+**Replace Magic Literal** is the second-edition name for the earlier magic-number refactoring.
