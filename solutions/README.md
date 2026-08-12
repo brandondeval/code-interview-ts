@@ -25,3 +25,23 @@ This code is generic enough that it applies to any language. Deep understanding 
 The solution folder should be deleted before being given to the candidate. 
 
 Note: Using a LLM’s to refactor the code usually reproduces something similar to the basic solution unless explicitly told to follow expert best practices. Notably most AI coding agents will not replace conditionals with polymorphism. 
+
+
+## The Gilded Rose
+
+```
+app/interview.ts
+```
+
+Is not my idea, actually its actually the Gilded Rose - Refactoring Kata. What makes it different is that I modified it from a World of Warcraft item shop to be a hardware store inventory system. If you want to know more about the Gilded Rose Kata check out these links:
+
+
+[Why Developers LOVE The Gilded Rose Kata](https://www.youtube.com/watch?v=Mt4XpGxigT4)
+
+[Gilded Rose Multi-Language Implementation on Github](https://github.com/emilybache/GildedRose-Refactoring-Kata)
+
+[Fun Refactoring! - Gilded Rose Kata, Hands-on with Approval](https://www.youtube.com/watch?v=OdnV8hc9L7I)
+
+[Best Tests for Gilded Rose Kata | Kent Beck’s Desiderata](https://www.youtube.com/watch?v=vMww6pV6P7s)
+
+[RailsConf 2014 - All the Little Things by Sandi Metz](https://www.youtube.com/watch?v=8bZh5LMaSmE)
