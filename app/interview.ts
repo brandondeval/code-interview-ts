@@ -78,7 +78,6 @@ export class HardwareStore {
  * Vitest insource testing - https://vitest.dev/guide/in-source
  * 
  * WARNING - Do NOT modify this code
- * You are allowed to uncomment the other test case
  */
 
 if (import.meta.vitest) {
