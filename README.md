@@ -36,11 +36,13 @@ The command scans `app/interview.ts` and reports code smells at error level. Use
 
 The script exits with a non-zero status when error-level smells are found, so it can also be used as a quick refactoring check. Treat the output as guidance rather than an automatic instruction: make one change at a time, then run the unit tests to confirm the behaviour is unchanged.
 
+
 ## Generate testtext files from the Command-Line
 
-copy the command and replace [number] with any number, then add the test to the insource tests
+If you want to test a different number of days you can copy the command and replace [number] with any number to generate a new testext file. You will need to implement a new test in the interview.ts vite in-source testing section. 
 
 Choose the number of days as args:
 ```sh
 npx ts-node test/golden-master-text-test.ts [number] > texttests/[number]days.txt
-```
+``` 
+
