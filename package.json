@@ -8,10 +8,12 @@
   "description": "Hardware Store code refactor in TypeScript",
   "scripts": {
     "test": "vitest",
+    "test:ui": "vitest --ui",
     "lint:smells": "code-scent app/interview.ts --fail-on error"
   },
   "devDependencies": {
     "@types/node": "^26.2.0",
+    "@vitest/ui": "^4.1.10",
     "code-scent": "^0.1.0",
     "typescript": "~5.9.3",
     "vite": "latest",

@@ -1,3 +1,4 @@
+/// <reference types="vitest/importMeta" />
 /**
  * This is some messy Typsescript code. The goal is to refactor the code to be more readable.
  */
@@ -83,7 +84,7 @@ export class HardwareStore {
 if (import.meta.vitest) {
   const { it, expect } = import.meta.vitest
 
-  it('FiveDays', async () => {
+  it('Match Text File Output: ThirtyDays', () => {
     const items = [
       new Item("Safety Vest", 10, 20),
       new Item("Glue", 2, 0),
@@ -99,7 +100,7 @@ if (import.meta.vitest) {
 
     const store = new HardwareStore(items);
 
-    let days: number = 5;
+    let days: number = 30;
     let output: string = "OMGHAI!\n";
     for (let i = 0; i < days + 1; i++) {
       output += "-------- day " + i + " --------\n";
@@ -112,38 +113,6 @@ if (import.meta.vitest) {
       store.updateQuality();
     }
 
-    await expect(output).toMatchFileSnapshot('../../../texttests/5days.txt')
+    expect(output).toMatchFileSnapshot('../../../texttests/30days.txt')
   });
-
-  // it('ThirtyDays', () => {
-  //   const items = [
-  //     new Item("Safety Vest", 10, 20),
-  //     new Item("Glue", 2, 0),
-  //     new Item("Superglue", 5, 7),
-  //     new Item("Sledge Hammer", 0, 80),
-  //     new Item("Sledge Hammer", -1, 80),
-  //     new Item("Parking Pass", 15, 20),
-  //     new Item("Parking Pass", 10, 49),
-  //     new Item("Parking Pass", 5, 49),
-  //     // this item does not work properly yet
-  //     new Item("Bottle of water", 3, 6)
-  //   ];
-
-  //   const store = new HardwareStore(items);
-
-  //   let days: number = 30;
-  //   let output: string = "OMGHAI!\n";
-  //   for (let i = 0; i < days + 1; i++) {
-  //     output += "-------- day " + i + " --------\n";
-  //     output += "name, sellIn, quality\n";
-
-  //     items.forEach(element => {
-  //       output += `${element.name}, ${element.sellIn}, ${element.quality}\n`
-  //     });
-  //     output += "\n";
-  //     store.updateQuality();
-  //   }
-
-  //   expect(output).toMatchFileSnapshot('../../../texttests/30days.txt')
-  // });
 }

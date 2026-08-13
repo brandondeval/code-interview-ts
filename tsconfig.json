@@ -17,9 +17,9 @@
     "verbatimModuleSyntax": true,
   },
   "include": [
-    "src",
-    "test",
-    "test/golden-master-text-test.ts"
+    "app",
+    "texttests/golden-master-text-test.ts",
+    "solutions/test"
   ],
   "exclude": [
     "node_modules"

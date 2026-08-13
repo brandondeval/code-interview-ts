@@ -3,11 +3,11 @@ import { describe, expect, it } from "vitest";
 import {
   HardwareStore as LegacyHardwareStore,
   Item as LegacyItem,
-} from "../app/interview.ts";
+} from "../../app/interview.ts";
 import {
   HardwareStore as RefactoredHardwareStore,
   Item as RefactoredItem,
-} from "../solutions/solution-expert/expert-solution.ts";
+} from "../../solutions/solution-expert/expert-solution.ts";
 
 describe("refactored HardwareStore", () => {
   function update(item: RefactoredItem): RefactoredItem {

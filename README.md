@@ -43,6 +43,6 @@ If you want to test a different number of days you can copy the command and repl
 
 Choose the number of days as args:
 ```sh
-npx ts-node test/golden-master-text-test.ts [number] > texttests/[number]days.txt
+npx ts-node texttests/golden-master-text-test.ts [number] > texttests/[number]days.txt
 ``` 
 
